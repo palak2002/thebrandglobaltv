@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Da:wght@400&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --paragraph-1-semibold: Poppins;
+  --font-baloo-da: "Baloo Da";
+
+  /* font sizes */
+  --paragraph-3-semibold-size: 12px;
+  --nft-name-size: 14px;
+  --paragraph-1-semibold-size: 16px;
+  --heading-3-size: 20px;
+  --heading-1-size: 28px;
+
+  /* Colors */
+  --black-3: #2a2d3a;
+  --dark: #24252d;
+  --black-2: #1b1a21;
+  --white1: #fff;
+  --color-turquoise: #81e3a8;
+
+  /* Gaps */
+  --gap-2xs: 2px;
+  --gap-xs: 5px;
+  --gap-sm: 12px;
+  --gap-md: 15px;
+  --gap-lg: 20px;
+  --gap-xl: 24px;
+  --gap-2xl: 30px;
+
+  /* Paddings */
+  --padding-sm: 7px;
+  --padding-md: 9px;
+  --padding-lg: 30px;
+
+  /* border radiuses */
+  --br-sm: 10px;
+  --br-md: 20px;
+}
